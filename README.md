@@ -510,6 +510,8 @@ the sale.
 
 - An online calendar that doesn't require login or auth. You create a calendar and get a permalink. Anyone with that permalink is free to add events etc...
 
+- A website that is a dashboard displaying any of the bands you like that are currently on tour
+
 - A web utility that generates an image either of a specified dimension size,
   or, filesize.
 
